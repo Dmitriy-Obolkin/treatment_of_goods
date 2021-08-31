@@ -1,0 +1,9 @@
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\bin\Debug\OblikTovariv1.exe
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\bin\Debug\OblikTovariv1.pdb
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.csprojResolveAssemblyReference.cache
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.Form1.resources
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.Properties.Resources.resources
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.csproj.GenerateResource.Cache
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.exe
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.pdb
+C:\Users\4xxdo\Desktop\Прога-Диплом\OblikTovariv1\OblikTovariv1\obj\Debug\OblikTovariv1.FormProducts.resources
